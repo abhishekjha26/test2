@@ -10,3 +10,6 @@ this is conflict change
 
 
 This is second change
+
+
+this change is from feature2
