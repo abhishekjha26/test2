@@ -7,3 +7,6 @@ commit merge change from develop1
 
 this is conflict change
 
+
+
+This is second change
